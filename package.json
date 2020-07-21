@@ -55,7 +55,7 @@
     "babel-preset-es2015": "^6.18.0",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-stage-0": "^6.16.0",
-    "codecov": "^1.0.1",
+    "codecov": "^3.7.1",
     "common-tags": "^1.4.0",
     "cross-env": "^3.1.3",
     "css.escape": "^1.5.1",
